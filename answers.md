@@ -439,4 +439,17 @@ nothing to commit, working tree clean
 
 ANS 10
 
+README.md did update localy
+
+ANS 11
+
+Everything up-to-date
+
+ANS 12
+
+Yes the local copy updated with the pull.
+
+ANS 13
+
+.  ..  .git  .gitignore  README.md
 
